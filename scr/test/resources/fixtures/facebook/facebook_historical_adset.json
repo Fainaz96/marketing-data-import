@@ -1,0 +1,74 @@
+{
+  "created_time": "2020-07-28T07:55:44+0000",
+  "effective_status": "ACTIVE",
+  "id": "23844938371470171",
+  "name": "NSK2_FB_CBO_ROW_VO_FAN_iOS_LAL-Max-Farm-Node_2020-07-28",
+  "promoted_object": {
+    "application_id": "2227789903972777",
+    "custom_event_type": "PURCHASE",
+    "object_store_url": "https://itunes.apple.com/app/id1444887980"
+  },
+  "status": "ACTIVE",
+  "targeting": {
+    "age_max": 65,
+    "age_min": 18,
+    "app_install_state": "not_installed",
+    "audience_network_positions": [
+      "classic",
+      "rewarded_video"
+    ],
+    "brand_safety_content_filter_levels": [
+      "AN_STANDARD"
+    ],
+    "custom_audiences": [
+      {
+        "id": "23844261138820171",
+        "name": "Lookalike (Asia, Central America and 128 others, 1%) - NSK2 - Farm Dungeon Maxed - Value"
+      }
+    ],
+    "device_platforms": [
+      "mobile"
+    ],
+    "excluded_connections": [
+      {
+        "id": "2227789903972777",
+        "name": "Nonstop Knight 2"
+      }
+    ],
+    "excluded_geo_locations": {
+      "countries": [
+        "US",
+        "CA",
+        "SG",
+        "KR",
+        "TW",
+        "FR",
+        "DE"
+      ],
+      "location_types": [
+        "home"
+      ]
+    },
+    "geo_locations": {
+      "country_groups": [
+        "worldwide"
+      ],
+      "location_types": [
+        "home",
+        "recent"
+      ]
+    },
+    "publisher_platforms": [
+      "audience_network"
+    ],
+    "targeting_optimization": "none",
+    "user_device": [
+      "iPad",
+      "iPhone"
+    ],
+    "user_os": [
+      "iOS_ver_11.0_and_above"
+    ]
+  },
+  "updated_time": "2020-09-10T07:38:08+0000"
+}

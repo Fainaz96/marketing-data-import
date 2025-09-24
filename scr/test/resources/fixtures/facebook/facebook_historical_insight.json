@@ -1,0 +1,34 @@
+{
+  "account_currency": "USD",
+  "account_id": "393417358126653",
+  "actions": [
+    {
+      "28d_click": "1",
+      "action_type": "video_view",
+      "value": "1"
+    },
+    {
+      "28d_click": "1",
+      "action_type": "page_engagement",
+      "value": "1"
+    },
+    {
+      "28d_click": "1",
+      "action_type": "post_engagement",
+      "value": "1"
+    }
+  ],
+  "ad_id": "23844938371040171",
+  "ad_name": "NSK2_arpg-miron-1_24s_1080_1080_xx",
+  "adset_id": "23844938371470171",
+  "adset_name": "NSK2_FB_CBO_ROW_VO_FAN_iOS_LAL-Max-Farm-Node_2020-07-28",
+  "campaign_id": "23844938371460171",
+  "campaign_name": "NSK2_FB_CBO_ROW_VO_FAN",
+  "clicks": "0",
+  "country": "AU",
+  "date_start": "2020-09-03",
+  "date_stop": "2020-09-03",
+  "impressions": "1",
+  "reach": "1",
+  "spend": "0.07"
+}
