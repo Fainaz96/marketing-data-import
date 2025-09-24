@@ -1,0 +1,6 @@
+target
+.idea
+flaregamesBI_modified.pem
+marketing-data-import-new-etl.iml
+dags/__pycache__
+.python-version

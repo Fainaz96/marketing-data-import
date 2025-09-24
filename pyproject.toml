@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "marketing-data-import"
+version = "0.1.0"
+description = ""
+authors = ["Boerje Sieling <boerje@flaregames.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.group.airflow]
+optional = true
+
+[tool.poetry.group.airflow.dependencies]
+airflow-utils = { git = "git@git.flaregames.net:analytics/airflow-utils.git", branch = "airflow_26" }
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
